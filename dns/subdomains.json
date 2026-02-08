@@ -1,0 +1,5 @@
+{
+  "$schema": "./subdomains.schema.json",
+  "description": "Registry of claimed subdomains on regenhub.build",
+  "subdomains": {}
+}
