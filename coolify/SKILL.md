@@ -6,6 +6,7 @@ Manage deployments on the RegenHub Coolify instance via HTTP API.
 
 - **Base URL:** Stored in `~/.openclaw/secrets/credentials.json` → `coolify.baseUrl`
 - **API Key:** Stored in `~/.openclaw/secrets/credentials.json` → `coolify.apiKey`
+- **Allowlist:** Stored in `~/.openclaw/secrets/shipper-allowlist.json`
 
 ## Available Scripts
 
