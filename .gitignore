@@ -1,0 +1,10 @@
+# Secrets and configs
+*.env
+.env*
+config
+credentials*
+*.key
+*.pem
+
+# Local state
+tunnels/

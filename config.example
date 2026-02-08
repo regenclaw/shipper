@@ -1,0 +1,7 @@
+# Shipper config — copy to /etc/shipper/config on compute-1
+# DO NOT commit the real config!
+CF_TOKEN=your-cloudflare-api-token
+CF_ACCOUNT_ID=your-account-id
+CF_ZONE_ID=your-zone-id
+DOMAIN=regenhub.build
+TUNNEL_DIR=/etc/shipper/tunnels
